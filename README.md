@@ -3,7 +3,7 @@
 ## Integrantes del equipo 11
 
 - Luis Daniel Ramírez Guerra
--
+- Luis Felipe Carrillo Alvarado
 -
 -
 
