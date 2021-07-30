@@ -5,7 +5,7 @@
 - Luis Daniel Ramírez Guerra
 - Luis Felipe Carrillo Alvarado
 - Maria Fernanda Orozco Castro
--
+- José Juan Calderón Castillo
 
 
 # 1. Deep Equal
