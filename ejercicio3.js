@@ -12,6 +12,7 @@
     let strinJson = '{';
 
     for(let item of arrayOrder){
+        debugger
         const elemet = item;
 
         if(elemet == letraAnt)
@@ -33,7 +34,7 @@
 
     return strinJson;
    }
-   
+
    console.log('Test 1:', frequency('cccbbbaaa'))
    // {a: 3, b: 3, c: 3}
    console.log('Test 2:', frequency('www.bedu.org'))
